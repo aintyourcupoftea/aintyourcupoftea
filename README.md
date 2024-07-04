@@ -38,7 +38,7 @@ Hey, I'm Amit, a **Web Enthusiast** 🌐 and aspiring **Full-Stack Master** 🧑
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=aintyourcupoftea&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=aintyourcupoftea&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
 ### Support My Work
 [![PayPal](https://img.shields.io/badge/PayPal-Donate-%2300457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/AmitGavali007)
