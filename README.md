@@ -29,7 +29,7 @@ Hey, I'm Amit, a **Web Enthusiast** 🌐 and aspiring **Full-Stack Master** 🧑
 ## 📊 My GitHub Highlights 
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aintyourcupoftea&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" width="400" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=aintyourcupoftea&theme=merko&hide_border=true&include_all_commits=true&count_private=true" width="400" alt="stats graph"  />
 </div>
 
 ### 😂 A Dose of Programmer Humor
