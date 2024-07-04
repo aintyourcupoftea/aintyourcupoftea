@@ -16,9 +16,9 @@ Hey, I'm Amit, a **Web Enthusiast** 🌐 and aspiring **Full-Stack Master** 🧑
 - Collaborating with awesome people to build impactful solutions. 🌟
 
 ### 🌐 Let’s Connect!
-- Want to build something amazing together? Let's connect! 🎉
+- Want to build something amazing together? Let's connect on [LinkedIn](https://linkedin.com/in/aintyourcupoftea)! 🤝
 
-## 📊 GitHub Stats:
+## 📊 My GitHub Highlights 
 ![](https://github-readme-stats.vercel.app/api?username=aintyourcupoftea&theme=merko&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aintyourcupoftea&theme=merko&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aintyourcupoftea&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
@@ -26,15 +26,14 @@ Hey, I'm Amit, a **Web Enthusiast** 🌐 and aspiring **Full-Stack Master** 🧑
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=aintyourcupoftea&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Some Programming Humor
+### 😂 A Dose of Programmer Humor
 ![Top Post from r/ProgrammerHumor](https://memefetchingredditapi.onrender.com)
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=aintyourcupoftea&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aintyourcupoftea)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/AmitGavali007)
+### Support My Work
+[![PayPal](https://img.shields.io/badge/PayPal-Donate-%2300457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/AmitGavali007)
 
 <!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
