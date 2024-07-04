@@ -25,12 +25,12 @@ Hey, I'm Amit, a **Web Enthusiast** 🌐 and aspiring **Full-Stack Master** 🧑
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aintyourcupoftea&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
+![](https://github-contributor-stats.vercel.app/api?username=aintyourcupoftea&limit=5&theme=dark&combine_all_yearly_contributions=true) 
 ## 📊 My GitHub Highlights 
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=aintyourcupoftea&theme=merko&hide_border=true&include_all_commits=true&count_private=true" width="400" alt="stats graph"  />
-</div>
+</div> -->
 
 ### 😂 A Dose of Programmer Humor
 ![Top Post from r/ProgrammerHumor](https://memefetchingredditapi.onrender.com)
