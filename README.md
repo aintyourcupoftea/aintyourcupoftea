@@ -23,8 +23,14 @@ Hey, I'm Amit, a **Web Enthusiast** 🌐 and aspiring **Full-Stack Master** 🧑
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aintyourcupoftea&theme=merko&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aintyourcupoftea&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact) 
 
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=aintyourcupoftea&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
+## 📊 My GitHub Highlights 
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aintyourcupoftea&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
 
 ### 😂 A Dose of Programmer Humor
 ![Top Post from r/ProgrammerHumor](https://memefetchingredditapi.onrender.com)
