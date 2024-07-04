@@ -15,6 +15,9 @@ Hey, I'm Amit, a **Web Enthusiast** 🌐 and aspiring **Full-Stack Master** 🧑
 - Constantly evolving and growing. 🌱
 - Collaborating with awesome people to build impactful solutions. 🌟
 
+### 😂 A Dose of Programmer Humor
+![Top Post from r/ProgrammerHumor](https://memefetchingredditapi.onrender.com)
+
 ### 🌐 Let’s Connect!
 - Want to build something amazing together? Let's connect on [LinkedIn](https://linkedin.com/in/aintyourcupoftea)! 🤝
 
@@ -32,8 +35,6 @@ Hey, I'm Amit, a **Web Enthusiast** 🌐 and aspiring **Full-Stack Master** 🧑
   <img src="https://github-readme-stats.vercel.app/api?username=aintyourcupoftea&theme=merko&hide_border=true&include_all_commits=true&count_private=true" width="400" alt="stats graph"  />
 </div> -->
 
-### 😂 A Dose of Programmer Humor
-![Top Post from r/ProgrammerHumor](https://memefetchingredditapi.onrender.com)
 
 ---
 
