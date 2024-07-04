@@ -1,6 +1,6 @@
 # 👋 Hey there! It's Amit! 🚀
 
-**Welcome to my world of web development and coding adventures!** 🌐 As a recent graduate in Computer Engineering, I'm passionate about mastering the full-stack, crafting innovative projects, and making a meaningful impact. Constantly evolving and learning, I'm here to collaborate and create something extraordinary with you! 💡🎓
+**Welcome to my world of development and coding adventures!** 🌐 As a recent graduate in Computer Engineering, I'm passionate about mastering the full-stack, crafting innovative projects, and making a meaningful impact. Constantly evolving and learning, I'm here to collaborate and create something extraordinary with you! 💡🎓
 
 ## 🌟 A Little About Me
 
