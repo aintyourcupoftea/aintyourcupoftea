@@ -16,7 +16,7 @@ Hey, I'm Amit, a **Web Enthusiast** 🌐 and aspiring **Full-Stack Master** 🧑
 - Collaborating with awesome people to build impactful solutions. 🌟
 
 ### 😂 A Dose of Programmer Humor
-![Top Post from r/ProgrammerHumor](https://memefetchingredditapi.onrender.com)
+![Top Post from r/ProgrammerHumor](http://80.225.218.218:7860)
 
 ### 🌐 Let’s Connect!
 - Want to build something amazing together? Let's connect on [LinkedIn](https://linkedin.com/in/aintyourcupoftea)! 🤝
