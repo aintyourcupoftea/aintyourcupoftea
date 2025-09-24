@@ -16,7 +16,7 @@ Hey, I'm Amit, a **Web Enthusiast** 🌐 and aspiring **Full-Stack Master** 🧑
 - Collaborating with awesome people to build impactful solutions. 🌟
 
 ### 😂 A Dose of Programmer Humor
-![Top Post from r/ProgrammerHumor](https://meme.aintyourcupoftea.dpdns.org/)
+![Top Post from r/ProgrammerHumor](https://meme.aintyourcupoftea.dpdns.org)
 
 ### 🌐 Let’s Connect!
 - Want to build something amazing together? Let's connect on [LinkedIn](https://linkedin.com/in/aintyourcupoftea)! 🤝
