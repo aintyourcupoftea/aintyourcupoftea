@@ -1,46 +1,36 @@
-# 👋 Hey there! It's Amit! 🚀
+# Amit Gavali
 
-### 🌟 About Me
+GCP Cloud DevOps Engineer, Pune, India.
+Google Cloud Certified Professional Cloud DevOps Engineer.
 
-Hey, I'm Amit, a **Web Enthusiast** 🌐 and aspiring **Full-Stack Master** 🧑‍💻. Fresh out of my **Computer Engineering degree**, I'm diving deep into code, always hungry to learn and create. 📚💡
+I build and operate production infrastructure on Google Cloud for a regulated,
+high-availability securities clearing platform: Terraform and Ansible for
+150+ Compute Engine instances, Kubernetes and OpenShift workloads, Jenkins and
+GitHub Actions pipelines through change-managed release, and observability
+with Prometheus, Grafana and the ELK Stack.
 
-### 🎓 Education
-- **Computer Engineering Grad**
+## What I work with
 
-### ⚡️ Ambition
-- Driven by impact and fueled by ambition! 🌟
+| | |
+|---|---|
+| **Google Cloud** | GKE, Compute Engine, Filestore, Cloud IAM, VPC, Cloud Monitoring and Logging |
+| **Containers** | Kubernetes, Red Hat OpenShift, Docker, Podman, Helm, Vertical Pod Autoscaler |
+| **Infrastructure as Code** | Terraform, Terraform Enterprise, Ansible |
+| **CI/CD** | Jenkins, GitHub Actions, GitLab CI, GitHub Enterprise |
+| **Observability and SRE** | Prometheus, Grafana, ELK Stack, incident management, root cause analysis |
+| **Security** | IAM, mTLS, TLS/PKI certificate management, Linux hardening |
+| **Languages** | Python, Bash, Go, SQL, Java |
 
-### ✨ What I Love
-- Crafting cool projects that push boundaries. 💻
-- Constantly evolving and growing. 🌱
-- Collaborating with awesome people to build impactful solutions. 🌟
+## Things I have built at work
 
-### 😂 A Dose of Programmer Humor
-![Top Post from r/ProgrammerHumor](https://meme.aintyourcupoftea.dpdns.org)
+- **SpaceWarden**: storage-governance service for GCP Filestore that enforces quotas and surfaces orphaned data. Reclaimed 3 TB of capacity.
+- **VPA right-sizing**: led the Vertical Pod Autoscaler initiative across every environment, with a reporting script that flags over-provisioned workloads. Recurring annual cloud cost savings.
+- **Trade reconciliation**: Python utility that decrypts CIL trade messages and reconciles them against PostgreSQL with 100% accuracy.
+- **DevOps automation APIs**: Python services exposing Jira, OpenShift and Jenkins operations as REST endpoints for change requests, incidents, CronJobs and CI triggers.
 
-### 🌐 Let’s Connect!
-- Want to build something amazing together? Let's connect on [LinkedIn](https://linkedin.com/in/aintyourcupoftea)! 🤝
+## Elsewhere
 
-<!-- ## 📊 My GitHub Highlights 
-![](https://github-readme-stats.vercel.app/api?username=aintyourcupoftea&theme=merko&hide_border=true&include_all_commits=true&count_private=true) 
-![](https://github-readme-streak-stats.herokuapp.com/?user=aintyourcupoftea&theme=merko&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aintyourcupoftea&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact) 
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aintyourcupoftea&limit=5&theme=dark&combine_all_yearly_contributions=true) 
-## 📊 My GitHub Highlights 
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aintyourcupoftea&theme=merko&hide_border=true&include_all_commits=true&count_private=true" width="400" alt="stats graph"  />
-</div> -->
-
-
----
-
-<!-- [![](https://visitcount.itsvg.in/api?id=aintyourcupoftea&icon=0&color=0)](https://visitcount.itsvg.in) -->
-
-### Support My Work
-[![PayPal](https://img.shields.io/badge/PayPal-Donate-%2300457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/AmitGavali007)
-
-<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
+- Portfolio: [amit-gavali.web.app](https://amit-gavali.web.app)
+- LinkedIn: [linkedin.com/in/aintyourcupoftea](https://linkedin.com/in/aintyourcupoftea)
+- Certification: [Professional Cloud DevOps Engineer on Credly](https://www.credly.com/badges/8ed5b25a-8643-4ee0-9a83-5a896b2306cf/)
+- Email: amitbabangavali@gmail.com
